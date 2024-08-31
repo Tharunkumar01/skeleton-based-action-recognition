@@ -1,0 +1,5 @@
+[ 2024-06-25 20:43:22,853 ] Saving folder path: workdir//2003_EfficientGCN-B0_ntu-xsub120/2024-06-25 20-43-22
+[ 2024-06-25 20:43:22,853 ] 
+[ 2024-06-25 20:43:22,854 ] Starting preparing ...
+[ 2024-06-25 20:43:22,857 ] Saving model name: 2003_EfficientGCN-B0_ntu-xsub120
+[ 2024-06-25 20:43:22,858 ] Using CPU!
