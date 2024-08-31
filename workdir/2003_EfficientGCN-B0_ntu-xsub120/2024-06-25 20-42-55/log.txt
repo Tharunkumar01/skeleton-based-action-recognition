@@ -1,0 +1,8 @@
+[ 2024-06-25 20:42:55,362 ] Saving folder path: workdir//2003_EfficientGCN-B0_ntu-xsub120/2024-06-25 20-42-55
+[ 2024-06-25 20:42:56,334 ] 
+[ 2024-06-25 20:42:57,061 ] Starting preparing ...
+[ 2024-06-25 20:42:57,715 ] Saving model name: 2003_EfficientGCN-B0_ntu-xsub120
+[ 2024-06-25 20:42:58,349 ] Using CPU!
+[ 2024-06-25 20:42:58,877 ] 
+[ 2024-06-25 20:42:58,878 ] Error: Wrong in loading data files: ./data/npy_dataset/original/ntu-xsub120/train_data.npy or ./data/npy_dataset/original/ntu-xsub120/train_label.pkl!
+[ 2024-06-25 20:42:58,879 ] Please generate data first!
